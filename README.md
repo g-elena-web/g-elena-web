@@ -2,6 +2,10 @@
 
 ## Check out my frontend developer portfolio 👉 [here](https://g-elena-web.github.io/)
 
+Portfolio | Calculator | Pomodoro Timer
+------------ | ------------- | -------------
+| ![portfolio app screenshot](https://raw.githubusercontent.com/g-elena-web/g-elena-web.github.io/master/src/screenshots/desktop.jpg) | ![calculator app screenshot](https://raw.githubusercontent.com/g-elena-web/calculator/master/src/resources/screenshot.jpg) | ![pomodoro timer screenshot](https://raw.githubusercontent.com/g-elena-web/pomodoro-timer/master/src/resources/screenshot.jpg)|
+
 <!--
 **g-elena-web/g-elena-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
