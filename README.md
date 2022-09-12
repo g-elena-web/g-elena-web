@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👀
+
+## Check out my frontend developer portfolio 👉 [here](https://g-elena-web.github.io/)
 
 <!--
 **g-elena-web/g-elena-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
